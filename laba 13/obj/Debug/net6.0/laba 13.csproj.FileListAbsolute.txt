@@ -1,0 +1,15 @@
+D:\учеба\програмки\laba 13\bin\Debug\net6.0\laba 13.exe
+D:\учеба\програмки\laba 13\bin\Debug\net6.0\laba 13.deps.json
+D:\учеба\програмки\laba 13\bin\Debug\net6.0\laba 13.runtimeconfig.json
+D:\учеба\програмки\laba 13\bin\Debug\net6.0\laba 13.dll
+D:\учеба\програмки\laba 13\bin\Debug\net6.0\laba 13.pdb
+D:\учеба\програмки\laba 13\obj\Debug\net6.0\laba 13.csproj.AssemblyReference.cache
+D:\учеба\програмки\laba 13\obj\Debug\net6.0\laba 13.GeneratedMSBuildEditorConfig.editorconfig
+D:\учеба\програмки\laba 13\obj\Debug\net6.0\laba 13.AssemblyInfoInputs.cache
+D:\учеба\програмки\laba 13\obj\Debug\net6.0\laba 13.AssemblyInfo.cs
+D:\учеба\програмки\laba 13\obj\Debug\net6.0\laba 13.csproj.CoreCompileInputs.cache
+D:\учеба\програмки\laba 13\obj\Debug\net6.0\laba 13.dll
+D:\учеба\програмки\laba 13\obj\Debug\net6.0\refint\laba 13.dll
+D:\учеба\програмки\laba 13\obj\Debug\net6.0\laba 13.pdb
+D:\учеба\програмки\laba 13\obj\Debug\net6.0\laba 13.genruntimeconfig.cache
+D:\учеба\програмки\laba 13\obj\Debug\net6.0\ref\laba 13.dll
